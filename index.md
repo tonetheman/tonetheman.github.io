@@ -5,7 +5,7 @@ find me on these
 
 * [twitter](https://twitter.com/tonetheman)
 * [dev.to](https://dev.to/tonetheman)
-* [github](https://github.com/tonetheamn)
+* [github](https://github.com/tonetheman)
 * [linkedin](https://linkedin/tony-colston-4416459/)
 * [itch.io](https://tonetheman.itch.io/)
 
