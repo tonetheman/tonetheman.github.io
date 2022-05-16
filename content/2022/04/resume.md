@@ -35,17 +35,33 @@ I stole this format from https://christine.website/resume
 - ultimately I am a generalist. whatever needed doing :)
 
 ### Fedex
+- Senior Programmer Analyst
+
 #### highlights
 - long time ago 
 - Wrote a lot of Java code for a shipping engine
 - Worked with operations to move code into production environment
 - I will add more here ...
 
+Primary contact and technical support for all of FAST (Fedex Automation) production and test levels. Supporting Weblogic 9 scripting for all of the production and testing environment for FAST. Wrote all production support scripts for FAST. Assisted in OS setup and environment for all 56 boxes in FAST environment. One of the primary technical Java programmers for a large enterprise Java application for shipping.
+Front line technical support for FSS testing environment in the Bea tuxedo environment.
+Primary developer for FXUpload in the FSS environment in C/C++.
+Assist with Java coding and troubleshooting for any FAST services as needed
+
+
 ### Buckman labs
+- Programmer Analyst
+
 #### highlights
 
+Worked on conversion of existing VB6 program to VB.Net conversion. Participated in conversion from Lawson to ADP for Human Resources. Implemented global data warehouse for sales data using XML, Java and PL/SQL, Implemented reporting tables and tuned queries for reporting tools like Excel and Crystal Reports, Constructed and taught formal Java class to peers, Developed underlying architecture for global Extranet presence, Involved in evaluation of third party products including: portal software, content management, and document management. Developing and Publishing online reporting system for Baan using ASP, NetDynamics (Server-side Java), Oracle PL/SQL and Baan Scripting Language. Working with Visual C++ and VB to create barcoding applications for products. Designing and developing Midas sales reporting system in Java and Visual Basic. 
+
+
 ### the firm
+- Senior Practice Programmer
+
 #### highlights
+Managing and overseeing the financial reporting process. Experience with Microsoft SQL Server and Visual C++.
 
 ### MCI
 #### highlights
