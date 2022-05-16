@@ -9,9 +9,14 @@
 * [linkedin](https://linkedin/tony-colston-4416459/)
 * [itch.io](https://tonetheman.itch.io/)
 
-
 ## my resume is
 [here](content/2022/04/resume.html)
+Or in github. [it](https://github.com/tonetheman/tonetheman.github.io/blob/master/content/2022/04/resume.md) is the same thing
+
+## a game on the google app store
+[endless holiday runner](https://play.google.com/store/apps/details?id=com.turkeypantsgames.endlessholidayrunner&gl=US)
+
+I made a total of $3.14 on that game. lol.
 
 ## guitar things
 
