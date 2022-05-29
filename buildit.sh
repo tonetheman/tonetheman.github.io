@@ -1,9 +1,12 @@
 #!/bin/bash
 
-CMARK=/usr/bin/cmark
-HEAD=`pwd`
+# remove output directory
+rm -rf ./output
 
-echo "HEAD is ${HEAD}"
+mkdir ./output
 
-${CMARK} index.md --to html > index.html
-${CMARK} content/2022/04/resume.md --to html > content/2022/04/resume.html
+# run the blog builder
+./tcstaticwiki.py
+
+
+

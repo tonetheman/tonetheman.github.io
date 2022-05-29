@@ -1,9 +1,14 @@
 #!/usr/bin/python3
 
 import os, sys
+import pathlib
 
 CMARK = "/usr/bin/cmark"
 BASE = "https://tonycolston.com"
+OUTPUT_DIR = "output"
+VARS = {
+    "sitename" : "tonycolston.com"
+}
 
 def recursfiles(head_directory):
     for f in os.scandir(head_directory):
@@ -21,40 +26,54 @@ def recursefiles_withpurpose(head_directory, outlist):
         else:
             if f.name.endswith(".md"):
                 outlist.append((head_directory,f.name))
+            elif f.name.endswith(".html"):
+                outlist.append((head_directory,f.name))
+
 
 def build_index():
     os.system(CMARK + " index.md --to html > index.tmp")
     os.system("cat templates/html_header.txt index.tmp templates/html_footer.txt > index.html")
     os.system("rm -f index.tmp")
 
+def handle_markdown_file(_dir,_filename):
+    print("handle markdown")
+    
+    # convert to a Path to split later
+    p = pathlib.Path(_dir)
+
+    # something is wrong if this fails!
+    assert(p.parts[0]=="content") # always there!
+    
+    # this is the most forked up python
+    # i have written in a long time
+    # p.parts[1:]  does not include the content dir where this file is located
+    # make a new tuple of output_dir + the shape in the content directory
+    # then use * to apply it? or open the tuple... whatever that syntax is named
+    out_dir = pathlib.Path(*((OUTPUT_DIR,) + p.parts[1:]))
+
+    # make the dir in the output area if needed
+    if not out_dir.exists():
+        out_dir.mkdir(parents=True)
+
+
+
+def handle_html_file(_dir,_filename):
+    print("handle html")
+
+
 def build_blog_index():
     files_to_work_on = []
     recursefiles_withpurpose("content",files_to_work_on)
-    outf = open("./blog.tmp","w")
     
     for (_dir,_name) in files_to_work_on:
-        print("working on",_dir,_name)
-        # TODO: get front matter?
+        # print("working on",_dir,_name)
+        if _name.endswith(".md"):
+            handle_markdown_file(_dir,_name)
+        elif _name.endswith(".html"):
+            handle_html_file(_dir,_name)
 
-        # TODO: common mark this file into html
 
-        # write the information out
-        # to index file we are creating
-        outf.write("something cool to read: {0} {1}".format(_dir,_name))
-        outf.write("[something cool]({0}/{1}/{2})".format(BASE,_dir,_name))
 
-    outf.close()
-
-    # TODO: cmark the tmp file
-    os.system(CMARK + " blog.tmp --to html > blog.tmp2")
-
-    # take the file we wrote with the list of stuff
-    # tack on the header and footer and put it in blog directory
-    os.system("cat templates/html_header.txt ./blog.tmp2 templates/html_footer.txt > blog/index.html")
-    
-    # clean up
-    # os.system("rm -f ./blog.tmp")
-    # os.system("rm -f ./blog.tmp2")
 
 
 if __name__ == "__main__":
