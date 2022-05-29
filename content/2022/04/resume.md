@@ -1,6 +1,10 @@
 
+---
+
+---
+
 Tony Colston
-----------------------
+
 I stole this format from https://christine.website/resume
 
 #### programming/manager nerd

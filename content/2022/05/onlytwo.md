@@ -1,3 +1,7 @@
+---
+author : Tony Colston
+notes: not sure about this really
+---
 
 # one day there will just be two stores
 
