@@ -38,6 +38,53 @@ I stole this format from https://christine.website/resume
 - Involved in quarterly/yearly/long-term planning with my manager chain and product people
 - ultimately I am a generalist. whatever needed doing :)
 
+##### details!
+Sysadmin/devops things I did
+- Hung servers, switches and access points in the data center
+    - helped build out our customer cabinets
+- user management
+- server management
+- server monitoring
+- replaced failed hardware
+- any type of scripting needed to do anything on a server (bash, python, perl, javascript)
+- monitors for all of the equipment
+- lift and shift from our datacenter to a hybrid of our datacenter and AWS
+- AWS
+    - ec, s3, rds ... whatever
+- networking
+- iptables
+- load balancing (haproxy)
+- capacity planning for new hardware
+- on call for almost all of the time I was at CBT!
+    - kept site running
+    - post mortums
+
+Managment things I did
+- Managed all development staff (developers and devops)
+    - one on ones/career development
+    - day to day keep projects running
+- mentored staff including support staff to develop younger talent
+- quarterly planning with product/marketing/sales/bosses
+- longterm planning with product/marketing/sales/bosses
+- budget planning
+- pre/post sales calls
+
+Programming things I did
+- wrote 60-70% of ALL of the backend code that powers CBT
+- stack: mixed. Python, Java, nodejs, PHP, PHP, C/C++
+- storage: mysql5.1 (later RDS mysql 8), redis, mongodb, s3
+- designed large sections of the ugly/beautiful mess
+- worked with all of the programming staff on hard problems
+- worked with all of the programming staff to move projects along that were stuck
+- worked with devops staff on anything as needed
+- anything with networking
+- anything with SQL and optimization
+
+Random things
+- helped move the office on occasion
+- did anything that needed doing!
+
+
 ### Fedex
 - Senior Programmer Analyst
 
