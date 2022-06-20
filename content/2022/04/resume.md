@@ -39,6 +39,20 @@ I stole this format from https://christine.website/resume
 - ultimately I am a generalist. whatever needed doing :)
 
 ##### details!
+
+I am a co-founder so I did a lot of things over the years.
+
+Programming things I did
+- wrote 60-70% of ALL of the backend code that powers CBT
+- stack: mixed. Python, Java, nodejs, PHP, PHP, C/C++
+- storage: mysql5.1 (later RDS mysql 8), redis, mongodb, s3
+- designed large sections of the ugly/beautiful mess
+- worked with all of the programming staff on hard problems
+- worked with all of the programming staff to move projects along that were stuck
+- worked with devops staff on anything as needed
+- anything with networking
+- anything with SQL and optimization
+
 Sysadmin/devops things I did
 - Hung servers, switches and access points in the data center
     - helped build out our customer cabinets
@@ -64,21 +78,14 @@ Managment things I did
     - one on ones/career development
     - day to day keep projects running
 - mentored staff including support staff to develop younger talent
+- regularly worked with planned/presented to higher management
 - quarterly planning with product/marketing/sales/bosses
 - longterm planning with product/marketing/sales/bosses
+- ran daily standups (kanban and agile)
+- ran demos and other agile meetings as needed
 - budget planning
 - pre/post sales calls
-
-Programming things I did
-- wrote 60-70% of ALL of the backend code that powers CBT
-- stack: mixed. Python, Java, nodejs, PHP, PHP, C/C++
-- storage: mysql5.1 (later RDS mysql 8), redis, mongodb, s3
-- designed large sections of the ugly/beautiful mess
-- worked with all of the programming staff on hard problems
-- worked with all of the programming staff to move projects along that were stuck
-- worked with devops staff on anything as needed
-- anything with networking
-- anything with SQL and optimization
+- before aquisition I was HR!
 
 Random things
 - helped move the office on occasion
