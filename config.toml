@@ -1,4 +1,4 @@
-baseURL = "http://tonycolston.com/"
+baseURL = "https://tonycolston.com/"
 languageCode = "en-us"
 title = "tonycolston.com"
 theme = "blank"
