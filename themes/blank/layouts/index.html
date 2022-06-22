@@ -1,0 +1,21 @@
+{{ define "main" }}
+	<main>
+		<h3>find me on these</h3>
+		<ul>
+			<li><a href="">twitter</a></li>
+			<li><a href="">linkedin</a></li>
+			<li><a href="">github</a></li>
+			<li><a href="">itch.io</a></li>
+			<li><a href="">devto</a></li>
+		</ul>
+		dumb things <a href="/about">about tony</a>
+		<br>
+		<h3>list of pages</h3>
+		{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+		{{ range $paginator.Pages }}
+			{{ .Render "summary" }}
+		{{ end }}
+		{{ partial "pagination.html" . }}
+	</main>
+{{ partial "sidebar.html" . }}
+{{ end }}

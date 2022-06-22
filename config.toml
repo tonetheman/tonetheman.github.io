@@ -1,0 +1,4 @@
+baseURL = "http://tonycolston.com/"
+languageCode = "en-us"
+title = "tonycolston.com"
+theme = "blank"

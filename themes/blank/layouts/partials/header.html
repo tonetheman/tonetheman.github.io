@@ -1,0 +1,16 @@
+<header>
+	<!-- partials header -->
+	<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+	<div class="tonyabout">
+		<a href="/resume">my resume</a>
+	</div>
+	{{ with .Site.Menus.main }}
+	<nav>
+		<ul>
+			{{ range . }}
+			<li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+			{{ end }}
+		</ul>
+	</nav>
+	{{ end }}
+</header>
