@@ -72,6 +72,7 @@ Sysadmin/devops things I did
 - iptables
 - load balancing (haproxy)
 - capacity planning for new hardware
+- security things like triaging issues/working on attacks
 - on call for almost all of the time I was at CBT!
     - kept site running
     - post mortums
