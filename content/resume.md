@@ -8,8 +8,6 @@ draft: true
 
 Tony Colston
 
-*I stole this format from https://christine.website/resume*
-
 #### programming/manager nerd
 
 ##### Collierville, TN https://tonycolston.com
