@@ -17,6 +17,13 @@ Tony Colston
 
 ## experience
 
+### happy.ai - Senior Code Monkey (this is not my official title)
+
+#### highlights
+- Joined on 2022/08/22
+- That is is it! I just started
+
+
 ### CrossBrowserTesting/Smartbear - CoFounder/Development Manager *2008 - 2022*
 
 ```
