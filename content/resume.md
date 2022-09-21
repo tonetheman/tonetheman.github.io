@@ -105,16 +105,16 @@ Random things
 - Senior Programmer Analyst
 
 #### highlights
-- long time ago 
 - Wrote a lot of Java code for a shipping engine
 - Worked with operations to move code into production environment
-- I will add more here ...
+- Worked a LOT of corporate loads
+- Coordinated lots of SOA teams to deploy a single application (lots of people invoved here not just me clearly)
+- worked in C for an offline process that read shipping files that came in over night
 
 Primary contact and technical support for all of FAST (Fedex Automation) production and test levels. Supporting Weblogic 9 scripting for all of the production and testing environment for FAST. Wrote all production support scripts for FAST. Assisted in OS setup and environment for all 56 boxes in FAST environment. One of the primary technical Java programmers for a large enterprise Java application for shipping.
 Front line technical support for FSS testing environment in the Bea tuxedo environment.
 Primary developer for FXUpload in the FSS environment in C/C++.
 Assist with Java coding and troubleshooting for any FAST services as needed
-
 
 ### Buckman labs
 - Programmer Analyst
@@ -131,10 +131,19 @@ Worked on conversion of existing VB6 program to VB.Net conversion. Participated 
 Managing and overseeing the financial reporting process. Experience with Microsoft SQL Server and Visual C++.
 
 ### MCI
+Wrote a lot of C to create scripts/menus for call center operators.
+
 #### highlights
+Does anyone really even remember MCI anymore?
 
 ### re:member data services
+First job! Wrote a lot of code. In PASCAL!
+This place was a GREAT first job. They wrote their own database!
+
 #### highlights
+development and maintenance of ATM network software and Shared Branch Software, 
+converting financial institutions existing software base to our own, 
+database experience, maintenance and development of large software package, financial experience, draft processing, ATM and ACH processing, credit union experience, VMS experience, training others in the use and maintenance of the database
 
 
 
