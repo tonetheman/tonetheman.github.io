@@ -21,8 +21,7 @@ Tony Colston
 
 #### highlights
 - Joined on 2022/08/22
-- That is is it! I just started
-
+- Writing Python for an internal customer support/debugging application. In other words something that helps us research internal problems in lots of place in our stack. Technology used is Python, Flask, React, Postgres, Docker, CircleCI
 
 ### CrossBrowserTesting/Smartbear - CoFounder/Development Manager *2008 - 2022*
 
@@ -100,7 +99,6 @@ Random things
 - helped move the office on occasion
 - did anything that needed doing!
 
-
 ### Fedex
 - Senior Programmer Analyst
 
@@ -119,9 +117,20 @@ Assist with Java coding and troubleshooting for any FAST services as needed
 ### Buckman labs
 - Programmer Analyst
 
+This is a great Memphis based chemical company.
+
 #### highlights
 
-Worked on conversion of existing VB6 program to VB.Net conversion. Participated in conversion from Lawson to ADP for Human Resources. Implemented global data warehouse for sales data using XML, Java and PL/SQL, Implemented reporting tables and tuned queries for reporting tools like Excel and Crystal Reports, Constructed and taught formal Java class to peers, Developed underlying architecture for global Extranet presence, Involved in evaluation of third party products including: portal software, content management, and document management. Developing and Publishing online reporting system for Baan using ASP, NetDynamics (Server-side Java), Oracle PL/SQL and Baan Scripting Language. Working with Visual C++ and VB to create barcoding applications for products. Designing and developing Midas sales reporting system in Java and Visual Basic. 
+- Worked on conversion of existing VB6 program to VB.Net conversion. 
+- Participated in conversion from Lawson to ADP for Human Resources. 
+- Implemented global data warehouse for sales data using XML, Java and PL/SQL, 
+- Implemented reporting tables and tuned queries for reporting tools like Excel and Crystal Reports, 
+- Constructed and taught formal Java class to peers, 
+- Developed underlying architecture for global Extranet presence, 
+- Involved in evaluation of third party products including: portal software, content management, and document management. 
+- Developing and Publishing online reporting system for Baan using ASP, NetDynamics (Server-side Java), Oracle PL/SQL and Baan Scripting Language. 
+- Working with Visual C++ and VB to create barcoding applications for products. 
+- Designing and developing Midas sales reporting system in Java and Visual Basic. 
 
 
 ### the firm
@@ -141,11 +150,10 @@ First job! Wrote a lot of code. In PASCAL!
 This place was a GREAT first job. They wrote their own database!
 
 #### highlights
-development and maintenance of ATM network software and Shared Branch Software, 
-converting financial institutions existing software base to our own, 
-database experience, maintenance and development of large software package, financial experience, draft processing, ATM and ACH processing, credit union experience, VMS experience, training others in the use and maintenance of the database
-
-
+- development and maintenance of ATM network software and Shared Branch Software, 
+- converting financial institutions existing software base to our own, 
+- database experience, 
+- maintenance and development of large software package, financial experience, draft processing, ATM and ACH processing, credit union experience, VMS experience, training others in the use and maintenance of the database
 
 ## Other things
 - I play/record music (badly).
