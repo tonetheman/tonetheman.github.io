@@ -17,12 +17,6 @@ Tony Colston
 
 ## experience
 
-### happy.ai - Senior Code Monkey (this is not my official title)
-
-#### highlights
-- Joined on 2022/08/22
-- Writing Python for an internal customer support/debugging application. In other words something that helps us research internal problems in lots of place in our stack. Technology used is Python, Flask, React, Postgres, Docker, CircleCI
-
 ### CrossBrowserTesting/Smartbear - CoFounder/Development Manager *2008 - 2022*
 
 ```
