@@ -17,6 +17,14 @@ Tony Colston
 
 ## experience
 
+### Promise Pay - Full Stack Developer 2023/05 - current
+
+Promise Pay has a great mission to help other people.
+
+#### highlights
+- I work on the architecture team
+- Working in typescript, using Firebase, GCP and AWS
+
 ### CrossBrowserTesting/Smartbear - CoFounder/Development Manager *2008 - 2022*
 
 ```
