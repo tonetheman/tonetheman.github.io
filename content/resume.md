@@ -13,7 +13,7 @@ Tony Colston
 ##### Collierville, TN https://tonycolston.com
 `Python`, `Java`, `lua`, `bash`, `C`, `C++`, `Go`
 `Devops`, `Sysadmin`
-`SQL`, `MySQL`, `redis`, `mongodb`, `sqlite`
+`SQL`, `MySQL`, `redis`, `mongodb`, `sqlite`, `gcp`
 
 ## experience
 
@@ -24,6 +24,7 @@ Promise Pay has a great mission to help other people.
 #### highlights
 - I work on the architecture team
 - Working in typescript, using Firebase, GCP and AWS
+- GCP experience
 
 ### CrossBrowserTesting/Smartbear - CoFounder/Development Manager *2008 - 2022*
 
