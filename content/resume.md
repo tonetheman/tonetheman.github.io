@@ -22,7 +22,7 @@ Tony Colston
 Promise Pay has a great mission to help other people.
 
 #### highlights
-- I work on the architecture team
+- I have worked on multiple teams!
 - Working in typescript, using Firebase, GCP and AWS
 - GCP experience
 
