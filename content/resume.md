@@ -17,16 +17,18 @@ Tony Colston
 
 ## experience
 
-### Promise Pay - Full Stack Developer 2023/05 - current
+### Promise Pay - Full Stack Developer 2023/05 - 2026/07
 
-Promise Pay has a great mission to help other people.
+Promise Pay has a great mission to help people.
 
 #### highlights
 - I have worked on multiple teams!
 - Working in typescript, using Firebase, GCP and AWS
 - GCP experience
+- full stack development lots of frontend work in React lots of backend work in typescript
+- Tons of experience wrangling claude
 
-### CrossBrowserTesting/Smartbear - CoFounder/Development Manager *2008 - 2022*
+### CrossBrowserTesting/Smartbear - CoFounder/Development Manager/CTO stuff *2008 - 2022*
 
 ```
 >
@@ -159,10 +161,10 @@ This place was a GREAT first job. They wrote their own database!
 - maintenance and development of large software package, financial experience, draft processing, ATM and ACH processing, credit union experience, VMS experience, training others in the use and maintenance of the database
 
 ## Other things
-- I play/record music (badly).
+- I play/record music (really badly).
 - I listen to a lot of music genres.
 - I play a lot of video games still.
-- I have a wife and 2 kids. 1 in college 1 in highschool.
-- I am triple-vaxed.
-- Like to walk and ride a bike for exercise.
+- I have a wife and 2 kids. 1 working kid (wooohoooo) and 1 in college
+- Firm believer in vaccines!!!
+- Like to walk for exercise.
 - Read a lot mostly on the internet though sometime real/e/audio books
