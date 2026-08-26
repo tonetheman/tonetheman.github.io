@@ -27,6 +27,7 @@ Promise Pay has a great mission to help people.
 - GCP experience
 - full stack development lots of frontend work in React lots of backend work in typescript
 - Tons of experience wrangling claude
+- Worked on Florida CSBG and Crisis/Home energy Programs, automating all of the things
 
 ### CrossBrowserTesting/Smartbear - CoFounder/Development Manager/CTO stuff *2008 - 2022*
 
